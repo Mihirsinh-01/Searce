@@ -1,3 +1,11 @@
 Stack
 	- Evaluate Reverse Polish Notation(https://leetcode.com/problems/evaluate-reverse-polish-notation/)
-	
+	- Stock Span Problem(https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)
+
+Queue
+	- Implement Stack using Queue(https://leetcode.com/problems/implement-stack-using-queues/)
+
+LinkList
+	- Rotate List(https://leetcode.com/problems/rotate-list/)
+	- Intersection of Two Linked List(https://leetcode.com/problems/intersection-of-two-linked-lists/)
+	- Middle of Link List(https://leetcode.com/problems/middle-of-the-linked-list/)
