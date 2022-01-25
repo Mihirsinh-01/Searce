@@ -1,0 +1,9 @@
+Stack
+    - Longest Valid Palindrome(https://leetcode.com/problems/longest-valid-parentheses/)
+    - Next Greater Element(https://leetcode.com/problems/next-greater-element-ii/)
+
+Queue
+    - Winner of a circular game(https://leetcode.com/problems/find-the-winner-of-the-circular-game/)
+
+Linked List
+    -Reverse a Linked List(https://leetcode.com/problems/reverse-linked-list/)
